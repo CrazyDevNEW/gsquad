@@ -1,5 +1,5 @@
 # G-Squad Minecraft Builds
-Репозиторий с серверной и клиентской части сборкой Minecraft.
+Репозиторий с серверной и клиентской части сборкой Minecraft._
 В категории **Релизы** можно загрузить нужный вам архив для **Prism Launcher** 
 
 # Install
@@ -10,9 +10,9 @@
 
 ## Cloning
 В дирретории ```PrismLauncher/instances``` клонируете репозиторий:
-```git clone http://git.mihprog.com/crazydevnew/minecraft.git```
-При необходимости обновится просто сливаете **origin/master** в **master**
-Кому это нужно, думаю сами разберутся
+```git clone http://git.mihprog.com/crazydevnew/minecraft.git``` <br />
+При необходимости обновится просто сливаете **origin/master** в **master** <br />
+Кому это нужно, думаю сами разберутся <br />
 
 ## Branches
 
