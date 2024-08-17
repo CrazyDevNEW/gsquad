@@ -10,9 +10,9 @@
 
 ## Cloning
 В дирретории ```PrismLauncher/instances``` клонируете репозиторий:
-```git clone http://git.mihprog.com/crazydevnew/minecraft.git```_
-При необходимости обновится просто сливаете **origin/master** в **master**_
-Кому это нужно, думаю сами разберутся_
+```git clone http://git.mihprog.com/crazydevnew/minecraft.git``` <br />
+При необходимости обновится просто сливаете **origin/master** в **master** <br />
+Кому это нужно, думаю сами разберутся <br />
 
 ## Branches
 
